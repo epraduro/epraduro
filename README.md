@@ -57,7 +57,7 @@ Jeu Tetris multijoueur développé dans le cadre du cursus 42, avec gestion du t
 - Logique de jeu temps réel  
 - Synchronisation des parties  
 
-🌐 Demo : disponible sous peu </br>
+🌐 Demo : [http://srv558899.hstgr.cloud:4000](http://srv558899.hstgr.cloud:4000) </br>
 💻 Code : [https://github.com/epraduro/red-tetris](https://github.com/epraduro/RED-TETRIS)
 
 ---
