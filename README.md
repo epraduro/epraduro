@@ -73,7 +73,7 @@ Application web multijoueur (jeu Pong) avec fonctionnalités complètes de plate
 - Architecture Dockerisée (frontend, backend, base de données)  
 - API backend  
 
-🌐 Demo : disponible sous peu </br>
+🌐 Demo : [https://185.97.146.220:8001/home](https://185.97.146.220:8001/home) </br>
 💻 Code : [https://github.com/epraduro/ft_transcendance](https://github.com/epraduro/Transcendance)
 
 ---
@@ -87,7 +87,7 @@ Site vitrine développé pour explorer et expérimenter les animations modernes 
 - Travail sur l’expérience utilisateur et la fluidité de navigation  
 - Design responsive  
 
-🌐 Demo : disponible sous peu  </br>
+🌐 Demo : [http://185.97.146.220:3000/home](http://185.97.146.220:3000/home) </br>
 💻 Code : [https://github.com/epraduro/Lumiere_studio](https://github.com/epraduro/Lumiere_studio)
 
 ---
