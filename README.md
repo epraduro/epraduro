@@ -2,7 +2,7 @@
 
 🎓 Étudiante à l'École 42 Nice  
 💻 Développeuse Web & Mobile  
-🚀 À la recherche d’une alternance (2 ans)  
+🚀 À la recherche d'un stage de 4 à 6 mois ou d’une alternance (2 ans)  
 
 ---
 
